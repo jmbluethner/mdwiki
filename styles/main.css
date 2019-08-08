@@ -86,3 +86,6 @@ button:hover {
     box-sizing: border-box;
     padding: 30px;
 }
+[id^='md_container'] {
+    display: none;
+}
